@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Géographie française
 
-You can use the [editor on GitHub](https://github.com/intoo-solutions/france-geographie/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Liste non officielle de cas spécifiques et étranges d'adresses Française.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+L'objectif est de répondre aux questions telle que 
 
-### Markdown
+* quel est le nom de commune le plus grand / le plus petit ? 
+* quels cas surprenants puis-je avoir si je propose une autocomplétion d'adresse ? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Sommaire
 
-# Header 1
-## Header 2
-### Header 3
+- [Taille](#tailles)
+- [Autres](#autres)
 
-- Bulleted
-- List
+## Tailles
 
-1. Numbered
-2. List
+* La commune au plus petit nom en France est 1 lettre : *Y*
+* Les plus grandes sont 38 lettres ( [selon Wikipedia](https://fr.wikipedia.org/wiki/Liste_des_toponymes_les_plus_longs#Liste) ) : ex  *Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson*
 
-**Bold** and _Italic_ and `Code` text
+## Autres
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/intoo-solutions/france-geographie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Les codes INSEE en Corse utilisent des lettres : *Bastia : 2B033*, comme dans leur code département *Corse du sud : 2A*
