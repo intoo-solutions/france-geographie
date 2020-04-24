@@ -16,7 +16,7 @@ L'objectif est de répondre aux questions telle que
 ## Tailles
 
 * La commune au plus petit nom en France est 1 lettre : *Y*
-* Les plus grandes sont 38 lettres ( [selon Wikipedia](https://fr.wikipedia.org/wiki/Liste_des_toponymes_les_plus_longs#Liste) ) : ex  *Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson*
+* Les plus grandes sont 45 lettres ( [selon Wikipedia](https://fr.wikipedia.org/wiki/Liste_des_toponymes_les_plus_longs#Liste) ) : ex  *Saint-Remy-en-Bouzemont-Saint-Genest-et-Isson*
 
 ## Autres
 
